@@ -51,8 +51,8 @@ That’s where I come in.
 
 ## 📊 GitHub Stats
 
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryansanchezortiz&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryansanchezortiz&layout=compact&theme=radical)
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanSanchezDev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSanchezDev&layout=compact&theme=radical)
 
 ---
 
